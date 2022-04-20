@@ -26,6 +26,7 @@ dsaffdsaassda
 
 
 
+
 <p align="center">
     <img src="https://github.com/mucahit-sahin/instagram-clone-react/blob/master/img/Screenshot_7.png" width="40%"/>
     <img src="https://github.com/mucahit-sahin/instagram-clone-react/blob/master/img/Screenshot_8.png" width="40%"/>
