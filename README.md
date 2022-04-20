@@ -1,10 +1,15 @@
 # Instagram Clone React
 
+
 I developed instagram site in this project. I used the React framework.
 
 - react
 - react hooks
 - react-router-dom
+
+
+
+dsaffdsaassda
 
 ## Images
 
@@ -18,6 +23,9 @@ I developed instagram site in this project. I used the React framework.
 <img src="https://github.com/mucahit-sahin/instagram-clone-react/blob/master/img/Screenshot_1.png"/>
 
 ### Mobile
+
+
+
 
 <p align="center">
     <img src="https://github.com/mucahit-sahin/instagram-clone-react/blob/master/img/Screenshot_7.png" width="40%"/>
@@ -48,5 +56,6 @@ It correctly bundles React in production mode and optimizes the build for the be
 
 The build is minified and the filenames include the hashes.\
 Your app is ready to be deployed!
+
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
